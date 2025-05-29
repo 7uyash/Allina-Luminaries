@@ -33,8 +33,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/7uyash/ui-design-precision-build.git
-   cd ui-design-precision-build
+   git clone https://github.com/7uyash/Allina-Luminaries
+   cd Allina-Luminaries
    ```
 
 2. **Install dependencies**
